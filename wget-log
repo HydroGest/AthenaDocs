@@ -1,0 +1,11 @@
+--2024-11-22 21:13:50--  https://raw.githubusercontent.com/github/gitignore/refs/heads/main/Node.gitignore
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.110.133, 185.199.109.133, 185.199.111.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.110.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2047 (2.0K) [text/plain]
+Saving to: ‘Node.gitignore.1’
+
+     0K .                                                     100% 70.8K=0.03s
+
+2024-11-22 21:14:21 (70.8 KB/s) - ‘Node.gitignore.1’ saved [2047/2047]
+
